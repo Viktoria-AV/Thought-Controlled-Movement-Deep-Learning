@@ -6,3 +6,13 @@ Brain-computer interfaces are an innovative technology combining neuroscience, e
 
 <img width="1017" alt="image" src="https://github.com/user-attachments/assets/df532b70-cf67-4bba-92b5-de4a2c82df45">
 Figure 1: BCI System Design for Assistive Technology Control
+
+
+
+
+<img width="1223" alt="image" src="https://github.com/user-attachments/assets/f8b529fc-587a-4d0c-9dbb-bbfdd5b4d4e4">
+Confusion matrix of GRAD-CAM on CNN with Topographic Data
+
+
+<img width="1291" alt="image" src="https://github.com/user-attachments/assets/9b004db7-6b51-43bf-91e4-9f27c92de14a">
+Confusion Matrix of LIME with Logistic Topographic Examples
