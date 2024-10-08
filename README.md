@@ -1,4 +1,4 @@
-<img width="1305" alt="image" src="https://github.com/user-attachments/assets/ed8a16c5-ae8c-444c-80de-bb83e1852dff"># Thought-Controlled-Movement-Deep-Learning
+# Thought-Controlled-Movement-Deep-Learning
 Decoding Brainwaves for Thought-Controlled Movement using Deep Learning
 
 
