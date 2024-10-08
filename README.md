@@ -1,5 +1,7 @@
-# Thought-Controlled-Movement-Deep-Learning
+<img width="1305" alt="image" src="https://github.com/user-attachments/assets/ed8a16c5-ae8c-444c-80de-bb83e1852dff"># Thought-Controlled-Movement-Deep-Learning
 Decoding Brainwaves for Thought-Controlled Movement using Deep Learning
 
 
 Brain-computer interfaces are an innovative technology combining neuroscience, engineering, and machine learning to connect the brain and external devices directly. Correctly interpreting motor intention electroencephalogram signals is essential for developing Brain-Computer Interface systems. This study explores the potential advantages of converting raw EEG data into topographic image representations to improve the classification of differentiating left or right hand movement intent. A comparative analysis was conducted on the performance of convolutional neural networks and logistic models on raw EEG data and its topological image. This research demonstrates the necessity of the temporal features of electroencephalogram signals in connection to its effect on classification accuracy. The findings suggest that combining the spatial and temporal dimensions of EEG data could be a practical approach to improving classification accuracy. This paper explores avenues for creating effective models for brain-computer interfaces that allow individuals to control movements through their thoughts. This prospect has significant implications for developing neuroprosthetics, robotics, and virtual reality.
+
+<img width="1305" alt="image" src="https://github.com/user-attachments/assets/14ddf7fd-fbfc-42db-81fe-022dd9a29bfd">
